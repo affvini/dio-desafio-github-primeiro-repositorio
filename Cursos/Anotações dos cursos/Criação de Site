@@ -5,6 +5,23 @@
     <title> Vinicius Veras</title>
   </head>
   <body>
-    Vinicius Veras
+    <header>
+      <img src='Viniveras.jpg' alt='Esse sou eu'>
+      <h1>Vinicius Veras</h1>
+    </header>
+    <section>
+      <header>
+        <h2>Posts</h2>
+      </header>
+      <article>
+        <header>
+          <h3>Post #1</h3>
+          <img src='html.png' alt='Editor de texto contendo código html'>
+        </header>
+        <p>
+          Lorem ipsum dolor sit amet, <a href='https://www.linkedin.com/in/vinicius-veras-536bb0128/' target='_blank' > consectetur adipiscing</a> elit. Donec sit amet scelerisque nulla. Aenean tristique dictum lectus a ultrices. Vivamus nec ante semper, aliquam urna et, malesuada felis. Etiam gravida elementum lectus, in aliquam augue pharetra aliquet. Sed vel interdum nibh. Phasellus eget tellus dapibus, pellentesque odio ornare, condimentum nibh. Etiam mollis leo ultricies urna mollis efficitur. Phasellus maximus bibendum nulla eu bibendum. Suspendisse consequat arcu nec pretium aliquet. Ut semper sodales augue quis malesuada. Nunc pellentesque massa non finibus congue.
+      </article>
+    </section>
+    <footer></footer>
   </body>
 </html>
