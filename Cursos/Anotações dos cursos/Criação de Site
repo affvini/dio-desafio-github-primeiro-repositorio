@@ -22,6 +22,18 @@
           Lorem ipsum dolor sit amet, <a href='https://www.linkedin.com/in/vinicius-veras-536bb0128/' target='_blank' > consectetur adipiscing</a> elit. Donec sit amet scelerisque nulla. Aenean tristique dictum lectus a ultrices. Vivamus nec ante semper, aliquam urna et, malesuada felis. Etiam gravida elementum lectus, in aliquam augue pharetra aliquet. Sed vel interdum nibh. Phasellus eget tellus dapibus, pellentesque odio ornare, condimentum nibh. Etiam mollis leo ultricies urna mollis efficitur. Phasellus maximus bibendum nulla eu bibendum. Suspendisse consequat arcu nec pretium aliquet. Ut semper sodales augue quis malesuada. Nunc pellentesque massa non finibus congue.
       </article>
     </section>
-    <footer></footer>
+    <footer>
+      <ul>
+        <li>
+          <a href='mailto:vinicius.f.veras@gmail.com' target='_blank' >vinicius.f.veras@gmail.com</a>
+        </li>
+        <li>
+          <a href='https://www.linkedin.com/in/vinicius-veras-536bb0128/' target='_blank'>LinkedIn</a>
+        </li>
+        <li>
+          <a href='https://github.com/affvini' target='_blank'>Github</a>
+        </li>
+      </ul>
+    </footer>
   </body>
 </html>
